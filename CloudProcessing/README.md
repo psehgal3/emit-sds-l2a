@@ -44,3 +44,5 @@ These were the images that were annotated for the projects. The ang .txt file ha
 This file can be used for graphing.
   
 Annotation Images Gimp folder has the annotated files. When opened in GIMP, these annotations can be editted 
+
+Program Drafts folder has old code versions with things like interpolating irradiance to calculate TOA reflectance.
