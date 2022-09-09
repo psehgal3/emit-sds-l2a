@@ -42,3 +42,5 @@ The emit <filename>.png files are non-useable emit files because they contain no
 In the Pictures folder, ang files are AVIRIS mission useable images. The emit files are EMIT mission useable images. 
 These were the images that were annotated for the projects. The ang .txt file has all the wavelengths for the AVIRIS mission for the specific image
 This file can be used for graphing.
+  
+Annotation Images Gimp folder has the annotated files. When opened in GIMP, these annotations can be editted 
